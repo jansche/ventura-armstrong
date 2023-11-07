@@ -1,4 +1,4 @@
-# Ventura Armstrong, Open Technologies Pentapus Mascot
+# Ventura Armstrong, Squid Mascot
 Ventura Armstrong is an Open Technologies mascot. Their pronouns are they/them. They are a pentapus (an octopus with 5, [sometimes 4](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Abled%20nobg.png), instead of 8 arms), with a space helmet and a superpower of being supportive. They are [non-binary, but have love for all](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20Pride%20nobg.png).
 
 Find all other artwork in [the /design directory of this repo](/designs/).
