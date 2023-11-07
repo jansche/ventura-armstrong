@@ -13,5 +13,5 @@ While this project is shared under the Apache 2.0 license (see [license](./LICEN
 Please inform the maintainer of this repo if you distribute any modified versions of Ventura. They appreciate it.
 
 ## Credit
-Ventura Armstrong has been created in November 2022 by Shruthi Venka (Design Lead at Postman) after an idea by [Jan Schenk](https://github.com/jansche).
+Ventura Armstrong has been created in November 2022 by [Shruthi Venka](https://www.linkedin.com/in/shruthivee/) after an idea by [Jan Schenk](https://github.com/jansche).
 
